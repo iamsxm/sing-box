@@ -4,7 +4,7 @@
 VERSION='v1.3.2 (2025.12.11)'
 
 # Github 反代加速代理，第一个为空相当于直连
-GITHUB_PROXY=('' 'https://v6.gh-proxy.org/' 'https://gh-proxy.com/' 'https://hub.glowp.xyz/' 'https://proxy.vvvv.ee/' 'https://ghproxy.lvedong.eu.org/')
+GITHUB_PROXY=('https://ghfast.top/' 'https://v6.gh-proxy.org/' 'https://gh-proxy.com/' 'https://hub.glowp.xyz/' 'https://proxy.vvvv.ee/' 'https://ghproxy.lvedong.eu.org/')
 
 # 各变量默认值
 TEMP_DIR='/tmp/sing-box'
